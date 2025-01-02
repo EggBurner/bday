@@ -29,7 +29,7 @@ export default function StepThree() {
             <div>
                 God speed my friend. Enjoy!
             </div>
-            <div>
+            <div className="step3-gl">
                 GOOD LUCK
             </div>
             <button onClick={confettiToggle} className='confetti-button'>NEXT</button>
